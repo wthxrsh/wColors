@@ -67,6 +67,11 @@ h1::after {
   transform: translateY(0);
 }
 
+#suffix{
+    font-weight: 100;
+    font-size: xx-small;
+}
+
 .palette-container {
   display: grid;
   gap: 1rem;
